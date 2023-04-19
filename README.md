@@ -17,3 +17,6 @@ It is an app to automatically search flights and if they will be lowest than pri
 - in data_manager.py - YOUR SHEETY PRICES ENDPOINT; 
 - in flight_search.py - YOUR_TEQUILA_API_KEY; 
 - in notification_manager.py - SHEET_USERS_API, YOUR TWILIO ACCOUNT SID, YOUR TWILIO AUTH TOKEN, YOUR TWILIO VIRTUAL NUMBER, YOUR TWILIO VERIFIED NUMBER, YOUR EMAIL PROVIDER SMTP ADDRESS, YOUR EMAIL and YOUR EMAIL PASSWORD
+
+### Requirements
+pip install -r requirements.txt
